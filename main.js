@@ -35,3 +35,4 @@ less.addEventListener("click",()=>{
 function updateDisplay(){
     counterDisplay.innerHTML = count;
 };
+// end of code
